@@ -46,4 +46,17 @@ class User {
     public String getLogin() {
         return login;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public String getSite_admin() {
+        return site_admin;
+    }
+
 }
